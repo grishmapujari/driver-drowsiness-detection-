@@ -1,9 +1,4 @@
-# -- coding: utf-8 --
-"""
-Created on Sun Dec 29 18:48:12 2019
 
-@author: Lenovo
-"""
 import os
 import cv2
 import sys
