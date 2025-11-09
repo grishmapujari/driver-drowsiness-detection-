@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 29 19:51:37 2019
 
-@author: Lenovo
-"""
 
 import dlib
 import sys
